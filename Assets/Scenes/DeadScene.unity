@@ -665,7 +665,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 536614958}
         m_TargetAssemblyTypeName: SceneChnageCode, Assembly-CSharp
-        m_MethodName: restartgame
+        m_MethodName: Returntomenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

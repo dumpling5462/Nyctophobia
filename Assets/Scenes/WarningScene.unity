@@ -1075,26 +1075,6 @@ MonoBehaviour:
   TriggerText: {fileID: 1954648040}
   TextToUpdate: {fileID: 1228394446}
   TextChanges:
-  - Headphones are reccomended For full game experience
-  - Are you sure you want to go through with playing this game?
-  - This game is very scary......
-  - I would advise not continuing anymore.....
-  - Y'know that guy from before seems very smart, you should listen to him
-  - You seem very sure of yourself
-  - Let's see if you can handle this then....
-  - AHAHA you thought....... it's not too late to turn back now
-  - This is getting tiring, just give up, you have been warned
-  - ..................................
-  - Uhhhhh....... I guess you can play the game if your that impatient
+  - Headphones are recommended For full game experience
   FontSizeChanges:
-  - 60
-  - 60
-  - 60
-  - 60
-  - 60
-  - 60
-  - 60
-  - 60
-  - 60
-  - 80
   - 60
